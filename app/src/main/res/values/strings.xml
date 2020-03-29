@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mi Camara</string>
+    <string name="email_is_empty">El correo no debe estar vacio</string>
+    <string name="password_is_empty">La contraseña no debe estar vacia</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="input_password">ingrese contraseña</string>
+    <string name="input_email">ingrese correo</string>
+    <string name="take_photo">Tomar Foto</string>
+    <string name="take_picture_canceled">Se cancelo la captura de imagen.</string>
+    <string name="camera_permission_message">Para capturar imagenes es necesario que condedas el permiso de accesos a la camara.</string>
+    <string name="image_description">muestra una imagen</string>
+</resources>
